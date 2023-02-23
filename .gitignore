@@ -133,3 +133,7 @@ dmypy.json
 
 # Notebook checkpoints
 .ipynb_checkpoints
+
+# source and result folders
+result/
+source/
